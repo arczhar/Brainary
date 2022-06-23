@@ -1,0 +1,42 @@
+[0328/115717.998:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0330/155702.258:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0330/155704.128:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/155704.128:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/160507.347:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/160507.347:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/160507.463:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0330/160508.967:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/160508.967:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/160509.213:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/160509.214:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/160635.433:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/160635.433:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/160635.992:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/160635.992:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/160636.304:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/160636.304:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/160636.931:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/160636.931:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/160637.794:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/160637.794:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/160804.148:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(77,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(99,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0330/161143.321:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/161143.321:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/161148.579:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/161148.579:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/161202.089:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/161202.089:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/161206.483:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/161206.483:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/161444.762:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/161444.762:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/161446.618:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0330/161446.618:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0330/162323.938:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0330/201914.656:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
